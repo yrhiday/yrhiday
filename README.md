@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @yrhiday
+- 👀 I’m interested in c#, php, java, android, nodejs
+- 🌱 I’m currently learning java & nodejs
+- 💞️ I’m looking to collaborate on c# & php
+- 📫 you can reach me at yrhiday@gmai.com
+
+<!---
+yrhiday/yrhiday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
